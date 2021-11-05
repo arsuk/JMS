@@ -1,0 +1,2 @@
+java -cp .:/opt/apache-activemq-5.18.8/activemq-all-5.18.8.jar:target/jms-example-1.0.jar $1 $2 $3
+
